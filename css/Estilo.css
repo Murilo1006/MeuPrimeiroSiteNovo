@@ -25,6 +25,7 @@ body{
 
     section{
         background-color: rgb(241, 214, 226);
+        font-size: 1cm;
     }
 
     footer{
@@ -39,12 +40,12 @@ body{
         padding: 3%;
     }
 
-    h1,h2{
+    h1,h2,{
         font-style: italic;
-        font-size: 0.5cm;
+        font-size: 1cm;
     }
     p{
         font-style: italic;
-        font-size: 0.5cm;
+        font-size: 1cm;
     }
    
