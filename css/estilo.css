@@ -1,0 +1,100 @@
+body{
+    background-color: #000;
+    background-image:url('../img/f5.avif');
+    background-size: 100%;
+    background-repeat: no-repeat
+}
+
+    .logo img{
+        width: 20%;
+
+    }
+
+    header{
+        /* background-color: blue; */
+        padding: 10%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    /*classe atribuida para a div que vai receber logotipo*/
+    .logo{
+        /* background-color:rgb(255,255,0); */
+    }
+
+    nav{
+        /* background-color: rgb(184,209, 231); */
+    }
+
+    main{
+        /* background-color: rgb(55, 138, 248); */
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    section{
+        /* background-color: rgb(236, 237, 243); */
+        font-size: 1cm;
+    }
+
+    footer{
+        /* background-color: rgb(112, 48, 160); */
+        padding: 3%;}
+    
+
+
+    .cabecalho{
+        padding: 3%;
+    }
+
+    .rodape{
+        padding: 3%;
+    }
+
+    h1,h2{
+        font-style: italic;
+        font-size: 1cm;
+        color: #fff;
+        line-height: 3;
+    }
+    
+    .titulos{
+        line-height: 3;
+        text-align: center;
+        font-weight: bold;
+
+    }
+    p{
+    
+        font-size: 1.5em;
+        font-size: 1.2em;
+        text-align: justify;
+        color: #fff;
+    }
+
+    h2{
+        font-style: oblique;
+        line-height: 1cm;
+    }
+
+    .caixa-imagem{
+        text-align: center;
+        margin-top: 1%;
+    }
+    
+    figure img {
+        display:block;
+        margin: 0 auto;
+        max-width: 100%;
+        height: auto;
+
+    }
+
+    figure figcaption{
+        margin: 1.0em;
+        text-align: center;
+        color:yellow;
+        
+    }
